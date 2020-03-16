@@ -5,12 +5,17 @@ contributor:
     agent_name: Ruyl, Beatrice Baxter
     gutenberg_agent_id: '51524'
     url: http://www.gutenberg.org/2009/agents/51524
+covers:
+- cover_type: archival
+  image_path: 61619-h/images/cover.jpg
 creator:
   author:
     agent_name: Edey, Birdsall Otis
     gutenberg_agent_id: '51523'
     url: http://www.gutenberg.org/2009/agents/51523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61619#Six-giants-and-a-griffin-and-other-stories
 gutenberg_issued: '2020-03-14'
 gutenberg_type: Text
 identifiers:
